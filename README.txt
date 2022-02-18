@@ -7,6 +7,10 @@ Ezek a teszt kódok a RealSense önvezető autónkhoz. Minden mappában a realse
 - Példák: Netről lopott kódok, amik alapján készültek el a sajátaim
 - Stilizált_saját: Egy nagyon rosszul optimalizált kód a mélység demonstrálására
 
+A RealSense saját szoftvere:
+https://www.intelrealsense.com/sdk-2/
+
+
 
 A Raspberry mappa tartalma
 
